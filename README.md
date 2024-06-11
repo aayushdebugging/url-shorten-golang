@@ -211,7 +211,7 @@ Ensure you have Go installed on your machine. You can download it from [https://
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
 
